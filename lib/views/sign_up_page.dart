@@ -1,5 +1,5 @@
+import 'package:barber_app/views/login_page.dart';
 import 'package:flutter/material.dart';
-import 'package:store_app/views/login_page.dart';
 
 class SignUpPage extends StatefulWidget {
   const SignUpPage({super.key});

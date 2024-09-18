@@ -1,8 +1,7 @@
+import 'package:barber_app/components/custom_text_field.dart';
+import 'package:barber_app/constants/routes.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:store_app/components/custom_text_field.dart';
-import 'package:store_app/constants/routes.dart';
-import 'package:store_app/views/home_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
